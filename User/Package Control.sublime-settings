@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"EJS",
 		"Emmet",
+		"IMESupport",
 		"Jade",
 		"JsFormat",
 		"Markdown Preview",
