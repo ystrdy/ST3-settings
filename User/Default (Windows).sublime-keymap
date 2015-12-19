@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "open_in_browser" },
+	{ "keys": ["alt+shift+d"], "command": "open_containing_folder" }
+]
